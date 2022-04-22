@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b901bfbd-1240-4870-8e34-8d978594450c": {
+      "ProjectGuid": "b901bfbd-1240-4870-8e34-8d978594450c",
+      "DisplayName": "WebPolls.Server",
+      "ColorIndex": 0
+    },
+    "951c9128-d9fe-4c24-b8db-8af21f20cd44": {
+      "ProjectGuid": "951c9128-d9fe-4c24-b8db-8af21f20cd44",
+      "DisplayName": "WebPolls.Client",
+      "ColorIndex": 1
+    },
+    "31faf6ca-c35a-4663-81f0-921b1507cb4c": {
+      "ProjectGuid": "31faf6ca-c35a-4663-81f0-921b1507cb4c",
+      "DisplayName": "WebPolls.Shared",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "File esterni",
+      "ColorIndex": -1
+    },
+    "3edea492-a976-4812-992d-ddf96123cdae": {
+      "ProjectGuid": "3edea492-a976-4812-992d-ddf96123cdae",
+      "DisplayName": "Profile.Shared",
+      "ColorIndex": 3
+    },
+    "2320f896-ced3-489c-8405-e71326c8d2af": {
+      "ProjectGuid": "2320f896-ced3-489c-8405-e71326c8d2af",
+      "DisplayName": "Settings.Shared",
+      "ColorIndex": 4
+    },
+    "919fd655-f067-4ba2-b932-d926e85dd6b4": {
+      "ProjectGuid": "919fd655-f067-4ba2-b932-d926e85dd6b4",
+      "DisplayName": "Documenti script",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}

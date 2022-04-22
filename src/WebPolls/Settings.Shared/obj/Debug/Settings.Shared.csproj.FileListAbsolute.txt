@@ -1,0 +1,6 @@
+C:\Users\mukhwinder.singh\Desktop\Programmi\Git-Blazor\src\WebPolls\Settings.Shared\bin\Debug\Settings.Shared.dll
+C:\Users\mukhwinder.singh\Desktop\Programmi\Git-Blazor\src\WebPolls\Settings.Shared\bin\Debug\Settings.Shared.pdb
+C:\Users\mukhwinder.singh\Desktop\Programmi\Git-Blazor\src\WebPolls\Settings.Shared\obj\Debug\Settings.Shared.csproj.AssemblyReference.cache
+C:\Users\mukhwinder.singh\Desktop\Programmi\Git-Blazor\src\WebPolls\Settings.Shared\obj\Debug\Settings.Shared.csproj.CoreCompileInputs.cache
+C:\Users\mukhwinder.singh\Desktop\Programmi\Git-Blazor\src\WebPolls\Settings.Shared\obj\Debug\Settings.Shared.dll
+C:\Users\mukhwinder.singh\Desktop\Programmi\Git-Blazor\src\WebPolls\Settings.Shared\obj\Debug\Settings.Shared.pdb

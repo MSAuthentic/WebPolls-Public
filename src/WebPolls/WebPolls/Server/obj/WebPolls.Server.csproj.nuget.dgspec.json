@@ -1,0 +1,196 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\mukhwinder.singh\\Desktop\\Programmi\\Git-Blazor\\src\\WebPolls\\WebPolls\\Server\\WebPolls.Server.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\mukhwinder.singh\\Desktop\\Programmi\\Git-Blazor\\src\\WebPolls\\Profile.Shared\\Profile.Shared.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mukhwinder.singh\\Desktop\\Programmi\\Git-Blazor\\src\\WebPolls\\Profile.Shared\\Profile.Shared.csproj",
+        "projectName": "Profile.Shared",
+        "projectPath": "C:\\Users\\mukhwinder.singh\\Desktop\\Programmi\\Git-Blazor\\src\\WebPolls\\Profile.Shared\\Profile.Shared.csproj",
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    },
+    "C:\\Users\\mukhwinder.singh\\Desktop\\Programmi\\Git-Blazor\\src\\WebPolls\\Settings.Shared\\Settings.Shared.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mukhwinder.singh\\Desktop\\Programmi\\Git-Blazor\\src\\WebPolls\\Settings.Shared\\Settings.Shared.csproj",
+        "projectName": "Settings.Shared",
+        "projectPath": "C:\\Users\\mukhwinder.singh\\Desktop\\Programmi\\Git-Blazor\\src\\WebPolls\\Settings.Shared\\Settings.Shared.csproj",
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    },
+    "C:\\Users\\mukhwinder.singh\\Desktop\\Programmi\\Git-Blazor\\src\\WebPolls\\WebPolls\\Client\\WebPolls.Client.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mukhwinder.singh\\Desktop\\Programmi\\Git-Blazor\\src\\WebPolls\\WebPolls\\Client\\WebPolls.Client.csproj",
+        "projectName": "WebPolls.Client",
+        "projectPath": "C:\\Users\\mukhwinder.singh\\Desktop\\Programmi\\Git-Blazor\\src\\WebPolls\\WebPolls\\Client\\WebPolls.Client.csproj",
+        "packagesPath": "C:\\Users\\mukhwinder.singh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mukhwinder.singh\\Desktop\\Programmi\\Git-Blazor\\src\\WebPolls\\WebPolls\\Client\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mukhwinder.singh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\mukhwinder.singh\\Desktop\\Programmi\\Git-Blazor\\src\\WebPolls\\Profile.Shared\\Profile.Shared.csproj": {
+                "projectPath": "C:\\Users\\mukhwinder.singh\\Desktop\\Programmi\\Git-Blazor\\src\\WebPolls\\Profile.Shared\\Profile.Shared.csproj"
+              },
+              "C:\\Users\\mukhwinder.singh\\Desktop\\Programmi\\Git-Blazor\\src\\WebPolls\\Settings.Shared\\Settings.Shared.csproj": {
+                "projectPath": "C:\\Users\\mukhwinder.singh\\Desktop\\Programmi\\Git-Blazor\\src\\WebPolls\\Settings.Shared\\Settings.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Components.WebAssembly": {
+              "target": "Package",
+              "version": "[6.0.4, )"
+            },
+            "Microsoft.AspNetCore.Components.WebAssembly.DevServer": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Runtime.Mono.browser-wasm",
+              "version": "[6.0.4, 6.0.4]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.104\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "browser-wasm": {
+          "#import": []
+        }
+      }
+    },
+    "C:\\Users\\mukhwinder.singh\\Desktop\\Programmi\\Git-Blazor\\src\\WebPolls\\WebPolls\\Server\\WebPolls.Server.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mukhwinder.singh\\Desktop\\Programmi\\Git-Blazor\\src\\WebPolls\\WebPolls\\Server\\WebPolls.Server.csproj",
+        "projectName": "WebPolls.Server",
+        "projectPath": "C:\\Users\\mukhwinder.singh\\Desktop\\Programmi\\Git-Blazor\\src\\WebPolls\\WebPolls\\Server\\WebPolls.Server.csproj",
+        "packagesPath": "C:\\Users\\mukhwinder.singh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mukhwinder.singh\\Desktop\\Programmi\\Git-Blazor\\src\\WebPolls\\WebPolls\\Server\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mukhwinder.singh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\mukhwinder.singh\\Desktop\\Programmi\\Git-Blazor\\src\\WebPolls\\WebPolls\\Client\\WebPolls.Client.csproj": {
+                "projectPath": "C:\\Users\\mukhwinder.singh\\Desktop\\Programmi\\Git-Blazor\\src\\WebPolls\\WebPolls\\Client\\WebPolls.Client.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Components.WebAssembly.Server": {
+              "target": "Package",
+              "version": "[6.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.104\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
